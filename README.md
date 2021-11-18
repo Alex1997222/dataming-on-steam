@@ -1,4 +1,4 @@
-# Steam Analysis
+# Steam Analysis
 
 This reposity is term project of CIS 600. In this pro
 
