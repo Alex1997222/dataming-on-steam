@@ -1,7 +1,3 @@
-# Steam Analysis
-
-This reposity is term project of CIS 600. In this pro
-
 ## Steam Crawler
 
 The Steam Crawler code is in `./SematicAnalysis`
